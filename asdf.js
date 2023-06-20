@@ -1,5 +1,5 @@
 function numeroMayor(a, b, c) {
-    if (a, b, c) {
+    if (a != b || b != c || c != a) {
         console.log('El número mayor es:', Math.max(a, b, c))
     } else {
         (a == b && a == c && b == c)
@@ -7,4 +7,4 @@ function numeroMayor(a, b, c) {
     }
 }
 
-numeroMayor(11, 120, 10);
+numeroMayor(29, 29, 29);
